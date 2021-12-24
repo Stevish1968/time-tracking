@@ -64,7 +64,7 @@ coming soon
 
 
 ### Useful resources
-coming soon
+I used this for my css reset -- [CSS Reset by Josh Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
 
 ## Author
 Stephen Little
